@@ -1,2 +1,5 @@
 # python environment folder
 .env
+
+# ignore database
+db.sqlite3
