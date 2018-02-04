@@ -3,3 +3,9 @@
 
 # ignore database
 db.sqlite3
+
+# pycache
+winyourhabit/__pycache__/
+
+# IDE folders
+.idea
