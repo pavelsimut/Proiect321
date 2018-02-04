@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd8e07bd-ea51-4578-984c-b567f30e269b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/winyourhabit-api.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit/wsgi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/winyourhabit_api/views.py" />
-    </list>
+    <list default="true" id="bd8e07bd-ea51-4578-984c-b567f30e269b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +21,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/winyourhabit/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -61,6 +44,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/winyourhabit/settings.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -74,6 +58,9 @@
     <option name="y" value="27" />
     <option name="width" value="1366" />
     <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -213,6 +200,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/winyourhabit/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -221,11 +216,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/winyourhabit/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
